@@ -8,9 +8,9 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [TodoMVC](http://todomvc.com/architecture-examples/emberjs/) - Obligatory Todo app
 - [Vine](https://vine.co/) - 'Explore a world of beautiful, looping videos'
-- [Travis CI](https://travis-ci.org/) - 'a hosted continuous integration service.
+- [Travis CI](https://travis-ci.org/) - 'A hosted continuous integration service'
 - [Twitch.tv](http://www.twitch.tv/directory) - 'The world's leading video platform and community for gamers'
-- [Discourse](http://try.discourse.org/) - 'An open source, next-generation discussion platform built for the next decade of the Internet'
+- [Discourse](http://try.discourse.org/) - 'An open source, next-generation discussion platform'
 - [Fnd.io](https://fnd.io/) - 'Experience the App Store and iTunes Anywhere'
 
 See also: [Built with Ember](http://builtwithember.io/)
@@ -19,8 +19,8 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 - [Ember Guides](http://emberjs.com/guides/) - Official guide to using Ember.
 - [Ember Cookbook](http://emberjs.com/guides/cookbook/) - Recommended solutions for common Ember app design patterns.
-- [Ember API](http://emberjs.com/api) - API docs
-- [Ember Data API](http://emberjs.com/api/data) - API docs
+- [Ember API](http://emberjs.com/api) - Officially maintained API docs.
+- [Ember Data API](http://emberjs.com/api/data) - Officially maintained API docs.
 
 ## Tools
 
