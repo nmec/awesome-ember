@@ -25,6 +25,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 ## Tools
 
 - [Ember-cli](http://www.ember-cli.com/)
+- [Ember Inspector](https://github.com/emberjs/ember-inspector)
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars)
 
 ## Tutorials
