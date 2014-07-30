@@ -18,6 +18,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 ## Documentation
 
 - [Ember Guides](http://emberjs.com/guides/)
+- [Ember Cookbook](http://emberjs.com/guides/cookbook/)
 - [Ember API](http://emberjs.com/api)
 - [Ember Data API](http://emberjs.com/api/data)
 
