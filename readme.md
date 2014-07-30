@@ -49,6 +49,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 - [Official Ember blog](http://emberjs.com/blog/)
 - [EmberFlare](https://emberflare.com)
+- [Ember Weekly](http://emberweekly.com/) - Weekly email newsletter - [Archives](http://us4.campaign-archive2.com/home/?u=ac25c8565ec37f9299ac75ca0&id=e96229d21d)
 
 ## Community
 
