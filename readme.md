@@ -21,6 +21,11 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Ember API](http://emberjs.com/api)
 - [Ember Data API](http://emberjs.com/api/data)
 
+## Tools
+
+- [Ember-cli](http://www.ember-cli.com/)
+- [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars)
+
 ## Tutorials
 
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709)
