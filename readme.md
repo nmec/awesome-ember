@@ -1,6 +1,6 @@
 # Awesome Ember
 
-A curated list of awesome Ember things.
+A curated list of awesome Ember.js things.
 
 Inspired by [all the other awesome things](https://github.com/bayandin/awesome-awesomeness).
 
