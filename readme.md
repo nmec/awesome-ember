@@ -27,6 +27,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Ember-cli](http://www.ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
 
 ## Tutorials
 
