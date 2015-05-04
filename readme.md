@@ -45,7 +45,8 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 ## Talks
 
-- [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from this year's EmberConf.
+- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from this year's EmberConf.
+- [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
 - [Wicked Good Ember](https://www.youtube.com/channel/UCwFd5yPBeWsbZHDWc-3KhjA) - Videos of the sessions from Wicked Good Ember Conf.
 - [Moving from Angular to Ember](https://www.youtube.com/watch?v=EFmgLyR-Svo) - Why Usermind.com choose to move away from Angular to Ember.
 
