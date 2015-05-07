@@ -50,6 +50,11 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Wicked Good Ember](https://www.youtube.com/channel/UCwFd5yPBeWsbZHDWc-3KhjA) - Videos of the sessions from Wicked Good Ember Conf.
 - [Moving from Angular to Ember](https://www.youtube.com/watch?v=EFmgLyR-Svo) - Why Usermind.com choose to move away from Angular to Ember.
 
+## Books
+
+- [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
+- [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
+
 ## News
 
 - [Official Ember blog](http://emberjs.com/blog/)
