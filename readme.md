@@ -30,6 +30,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanoid/Ember-Data-WordPress/) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
+- [Ember Twiddle](http://twiddle.joostdvrs.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 
 ## Tutorials
 
