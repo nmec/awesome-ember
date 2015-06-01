@@ -44,6 +44,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
 - [Ember 101](http://ember101.com/) - Short introductory screencasts for Ember.
+- [Ember Screencasts](http://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
 
 ## Talks
 
