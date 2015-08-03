@@ -6,7 +6,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Examples
 
-- [TodoMVC](http://todomvc.com/architecture-examples/emberjs/) - Obligatory Todo app
+- [TodoMVC](http://todomvc.com/examples/emberjs/) - Obligatory Todo app
 - [Vine](https://vine.co/) - 'Explore a world of beautiful, looping videos'
 - [Travis CI](https://travis-ci.org/) - 'A hosted continuous integration service'
 - [Twitch.tv](http://www.twitch.tv/directory) - 'The world's leading video platform and community for gamers'
