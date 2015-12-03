@@ -19,16 +19,16 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 - [Ember Guides](http://emberjs.com/guides/) - Official guide to using Ember.
 - [Ember Cookbook](http://emberjs.com/guides/cookbook/) - Recommended solutions for common Ember app design patterns.
-- [Ember API](http://emberjs.com/api) - Officially maintained API docs.
-- [Ember Data API](http://emberjs.com/api/data) - Officially maintained API docs.
+- [Ember API](http://emberjs.com/api/) - Officially maintained API docs.
+- [Ember Data API](http://emberjs.com/api/data/) - Officially maintained API docs.
 
 ## Tools
 
-- [Ember-cli](http://www.ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
+- [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
-- [Ember Data WordPress Adapter](https://github.com/HeyHumanoid/Ember-Data-WordPress/) - An Ember data adapter for the WordPress JSON API.
+- [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](http://twiddle.joostdvrs.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 
@@ -44,7 +44,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
 - [Ember 101](http://ember101.com/) - Short introductory screencasts for Ember.
-- [Ember Screencasts](http://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
+- [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
 
 ## Talks
 
@@ -69,7 +69,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
 - [Forum](http://discuss.emberjs.com/)
 - [GitHub issues](https://github.com/emberjs/ember.js/issues)
-- [Reddit](http://www.reddit.com/r/emberjs/)
+- [Reddit](https://www.reddit.com/r/emberjs/)
 
 ## Twitter
 
