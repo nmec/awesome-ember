@@ -31,6 +31,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
+- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
 
 ## Tutorials
 
@@ -48,7 +49,8 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 ## Talks
 
-- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from this year's EmberConf.
+- [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
+- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from EmberConf 2015.
 - [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
 - [Wicked Good Ember](https://www.youtube.com/channel/UCwFd5yPBeWsbZHDWc-3KhjA) - Videos of the sessions from Wicked Good Ember Conf.
 - [Moving from Angular to Ember](https://www.youtube.com/watch?v=EFmgLyR-Svo) - Why Usermind.com choose to move away from Angular to Ember.
