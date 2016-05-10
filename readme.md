@@ -15,6 +15,8 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 See also: [Built with Ember](http://builtwithember.io/)
 
+Also: [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
+
 ## Documentation
 
 - [Ember Guides](http://emberjs.com/guides/) - Official guide to using Ember.
