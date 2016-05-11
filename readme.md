@@ -91,3 +91,18 @@ See also: [Built with Ember](http://builtwithember.io/)
 - [Jamie White](https://twitter.com/jgwhite)
 - [Gavin Joyce](https://twitter.com/gavinjoyce)
 - [Adolfo Builes](https://twitter.com/abuiles)
+
+## Ember CLI Addons
+
+### UI Components
+
+- [ui-icon](https://ui-icon.firebaseapp.com/) — an icon component. Used by ui-bootstrap, ui-input, ui-button and others
+- [ui-image](https://ui-image.firebaseapp.com/) — a simple image wrapper component
+- [ui-input](https://ui-input.firebaseapp.com/) — components for text, email, password and numberic inputs
+- [ui-bootstrap](https://www.npmjs.com/package/ui-bootstrap) — collection of Bootstrap components: label, pill, progressbar, card, navbar. Includes Bootstrap 4 SASS as bower dependency
+- [ui-button](https://www.npmjs.com/package/ui-button) — customizable button component with Bootstrap theme 
+- [ui-datepicker](https://www.npmjs.com/package/ui-datepicker) — customizable datepicker component
+
+### UI Helpers
+
+- [ember-cli-stylist](https://www.npmjs.com/package/ember-cli-stylist) — provide HTML style attributes dynamically and safely
