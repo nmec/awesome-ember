@@ -124,3 +124,9 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 ### Build Enhancements
 
 - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) — automatically run your styles through autoprefixer.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jono Warren](https://jwarren.co.uk) has waived all copyright and related or neighboring rights to this work.
