@@ -35,6 +35,7 @@ See also: [Built with Ember](http://builtwithember.io/)
 
 ## Tutorials
 
+- [Ember.js Tutorial](http://yoember.com) - Building a complex web application with the latest Ember.js.
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
 - [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
