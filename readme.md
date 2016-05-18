@@ -97,6 +97,8 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 ## Ember CLI Addons
 
+- [Ember Observer](https://emberobserver.com) - Browse addons by category and popularity
+
 ### UI Components
 
 - [ember-cli-flash](https://github.com/poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
