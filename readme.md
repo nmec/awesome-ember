@@ -94,3 +94,31 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Jamie White](https://twitter.com/jgwhite)
 - [Gavin Joyce](https://twitter.com/gavinjoyce)
 - [Adolfo Builes](https://twitter.com/abuiles)
+
+## Ember CLI Addons
+
+### UI Components
+
+- [ember-cli-flash](https://github.com/poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
+- [ember-modal-dialog](https://github.com/yapplabs/ember-modal-dialog) — components to implement modal dialogs throughout an Ember application using a simple, consistent pattern.
+- [ui-bootstrap](https://www.npmjs.com/package/ui-bootstrap) — collection of Bootstrap components: label, pill, progressbar, card, navbar. Includes Bootstrap 4 SASS as bower dependency.
+- [ui-button](https://www.npmjs.com/package/ui-button) — customizable button component with Bootstrap theme.
+- [ui-datepicker](https://www.npmjs.com/package/ui-datepicker) — customizable datepicker component.
+- [ui-icon](https://ui-icon.firebaseapp.com/) — an icon component, used by ui-bootstrap, ui-input, ui-button and others.
+- [ui-image](https://ui-image.firebaseapp.com/) — a simple image wrapper component.
+- [ui-input](https://ui-input.firebaseapp.com/) — components for text, email, password and numberic inputs.
+
+### UI Helpers
+
+- [ember-cli-stylist](https://www.npmjs.com/package/ember-cli-stylist) — provide HTML style attributes dynamically and safely.
+- [ember-i18n](https://www.npmjs.com/package/ember-i18n) — internationalization for your Ember application.
+- [ember-tether](https://github.com/yapplabs/ember-tether) — a component that allows for 'tethering' a block to a target somewhere else on the page.
+- [ember-wormhole](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
+
+### Model Enhancements
+
+- [ember-autosave](https://www.npmjs.com/package/ember-autosave) — autosave your Ember Data models after timeout
+
+### Build Enhancements
+
+- [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) — automatically run your styles through autoprefixer.
