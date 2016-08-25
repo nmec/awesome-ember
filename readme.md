@@ -35,6 +35,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 ## Tutorials
 
+- [Discover Ember 2](https://www.ludu.co/course/ember) - Learn how to build a Twitter clone from scratch
 - [Ember.js Tutorial](http://yoember.com) - Building a complex web application with the latest Ember.js.
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
