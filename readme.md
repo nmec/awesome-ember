@@ -118,6 +118,11 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [ember-tether](https://github.com/yapplabs/ember-tether) — a component that allows for 'tethering' a block to a target somewhere else on the page.
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
 
+### Testing
+
+- [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app
+using a [JSON API](http://jsonapi.org/)-compliant client-side server.
+
 ### Model Enhancements
 
 - [ember-autosave](https://www.npmjs.com/package/ember-autosave) — autosave your Ember Data models after timeout
