@@ -94,7 +94,6 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [alexspeller](https://twitter.com/alexspeller)
 - [Jamie White](https://twitter.com/jgwhite)
 - [Gavin Joyce](https://twitter.com/gavinjoyce)
-- [Adolfo Builes](https://twitter.com/abuiles)
 
 ## Ember CLI Addons
 
