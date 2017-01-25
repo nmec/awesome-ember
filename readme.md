@@ -32,6 +32,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 - [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
+- [Mirage Glue](https://github.com/izelnakri/mirage-glue) - Create Ember mirage fixtures from your RESTAdapter endpoints.
 
 ## Tutorials
 
