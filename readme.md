@@ -110,7 +110,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [ui-icon](https://ui-icon.firebaseapp.com/) — an icon component, used by ui-bootstrap, ui-input, ui-button and others.
 - [ui-image](https://ui-image.firebaseapp.com/) — a simple image wrapper component.
 - [ui-input](https://ui-input.firebaseapp.com/) — components for text, email, password and numberic inputs.
-- [Ember-AnyChart](https://github.com/AnyChart/AnyChart-Ember) — AnyChart Component for Ember CLI provides an easy way to use AnyChart JavaScript Charts with Ember Framework.
+- [Ember-AnyChart](https://github.com/AnyChart/AnyChart-Ember) — AnyChart ($) data visualisation components.
 
 ### UI Helpers
 
