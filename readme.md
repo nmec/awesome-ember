@@ -12,6 +12,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Twitch.tv](http://www.twitch.tv/directory) - 'The world's leading video platform and community for gamers'
 - [Discourse](http://try.discourse.org/) - 'An open source, next-generation discussion platform'
 - [Fnd.io](https://fnd.io/) - 'Experience the App Store and iTunes Anywhere'
+- [Ember Observer](https://emberobserver.com/) - 'Browse addons by category and popularity'
 
 See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 
