@@ -43,6 +43,12 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
 - [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
+## Courses
+
+- [Frontend Masters: Ember 2.x - Mike North](https://frontendmasters.com/courses/ember-2/)
+- [Frontend Masters: Advanced Ember 2.x - Mike North](https://frontendmasters.com/courses/advanced-ember-2/)
+- [Emberschool.com](https://www.emberschool.com/)
+
 ## Screencasts
 
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
