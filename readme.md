@@ -62,6 +62,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 - [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
+- [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
 
 ## News
 
