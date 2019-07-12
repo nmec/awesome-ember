@@ -99,6 +99,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 ## Ember CLI Addons
 
 - [Ember Observer](https://emberobserver.com) - Browse addons by category and popularity
+- [Ember Square Payment Form](https://github.com/square/ember-square-payment-form) - Square addon lets you take payments securely and easily.
 
 ### UI Components
 
